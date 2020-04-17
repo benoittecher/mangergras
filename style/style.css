@@ -1,0 +1,56 @@
+body{
+    margin: 0;padding: 0;background-color: #fff;
+
+}
+.container{
+    display:flex;
+    width: 960px;
+    min-height: 100%;
+    margin: 0 auto;
+    flex-direction:column;
+
+
+}
+header{
+    height: 150px;
+    background-color: lightgreen;
+
+
+}
+main{
+    background-color:"whitesmoke";
+    flex-grow: 1;
+    display: flex;
+
+
+    
+
+}
+
+footer{
+    height: 100px;
+    background-color:black;
+    
+
+}
+main{
+
+    display: flex;
+}
+aside{
+    width:300px;
+
+    background-color: grey;
+
+
+}
+
+.content{
+    width: 660px;
+
+    background-color:white;
+    overflow:hidden;
+}
+
+
+.marge{ margin: 20px;} 
