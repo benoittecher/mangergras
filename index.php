@@ -1,4 +1,10 @@
-<body>
+<?php include("Header.php");?>
+    <main>  
+        <aside>
+        </aside>
+        <div class="content">
+        </div>
 
 
-</body>
+    </main>
+<?php include("footer.php"); ?>
