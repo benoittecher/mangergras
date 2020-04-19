@@ -1,0 +1,32 @@
+body{
+    background-color: #fff;
+
+}
+
+.perso_policeTitre{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.perso_shadow{
+    box-shadow: 0px 2px 15px black;
+}
+
+.perso_logoSize{
+    width: 100px;
+}
+
+.perso_colorMenu{
+   color:white;
+}
+
+.perso_size20{
+ font-size: 20px;
+}
+
+.perso_minCorSize{
+ min-height: 500px;
+}
+ 
+.hello{
+    color: red;
+}

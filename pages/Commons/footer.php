@@ -1,3 +1,5 @@
+
+</div>
 <footer class="bg-dark text-center text-white rounded-bottom perso_shadow">
     <div class="p-2 ">
         <p>Coopyright all reserved Mangergras 2020</p>
