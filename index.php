@@ -1,6 +1,6 @@
 <?php include("Header.php");?>
 
-<!-- <section class="flexslider" data-section="welcome">
+<section class="flexslider" data-section="welcome">
       <ul class="slides">
         <li style="background-image: url(img/burger.jpg)" class="overlay" data-stellar-background-ratio="0.5">
           <div class="container">
@@ -43,6 +43,6 @@
           </div>
         </li>
       </ul>
-    </section> -->
+    </section>
 
 <?php include("footer.php") ;
