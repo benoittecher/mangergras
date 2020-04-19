@@ -6,13 +6,13 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width-device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link href="../css/style.css" rel="stylesheet" />
+    <link href="../../css/style.css" rel="stylesheet" />
     </head>
 
     <body>
 
     <div class="container p-0 mt-2 rounded parso_shadow ">
-        <header class="bg-dark text-white rounded-top perso_policeTitre">
+        <header class="bg-dark text-white rounded-top perso_policeTitre perso_shadow">
             <div class="row align-items-center m-0">
                 <div class="col-2 p-2 text-center">
                     <a href="">
@@ -33,7 +33,7 @@
                             </li>
                         
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="../Globals/About.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 About
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -43,7 +43,7 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="../Globals/Menu.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Menu
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -53,7 +53,7 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="../Globals/Gallery.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Gallery
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -63,7 +63,7 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="../Globals/Contact.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Contact
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -83,6 +83,5 @@
         </header>
 
         <div class="border p-1 perso_minCorSize">
-       
 
-    </div>
+    
