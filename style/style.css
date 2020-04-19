@@ -2,6 +2,18 @@ body{
     margin: 0;padding: 0;background-color: #fff;
 
 }
+
+.perso_policeTitre{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.perso_shadow{
+    box-shadow: 0px 2px 15px black;
+}
+
+.perso_logoSize{
+    width: 100px;
+}
 .container{
     display:flex;
     width: 960px;
