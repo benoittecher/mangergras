@@ -1,5 +1,5 @@
-<?php include"Header.php";?>
-<body>
+<?php include("Header.php");?>
+
 <section class="flexslider" data-section="welcome">
       <ul class="slides">
         <li style="background-image: url(img/burger.jpg)" class="overlay" data-stellar-background-ratio="0.5">
@@ -47,4 +47,4 @@
 
 </body>
 
-<?php include"footer.php" ;
+<?php include("footer.php") ;
